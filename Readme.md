@@ -66,4 +66,4 @@ MySQL (MySQLi orienté objet)
 
 Design Pattern Singleton
 
-UML & ERD
+UML & ERD 
